@@ -1,15 +1,18 @@
 # Healthcare-Data-Analysis-Using-SQL
 
-Purpose
+Purpose:
+
 This project focuses on predicting hospital readmission rates for patients with diabetes.
 
-Data
+Data:
+
 The dataset's original source is available HERE https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008. It comprises clinical care data from 130 U.S. hospitals over a ten-year period (1998 - 2008). The dataset is organized into two tables: one containing demographic data and the other containing health and clinical care data.
 
-Tools Used
+Tools Used:
+
 SQL Server was employed for data analysis, utilizing SQL queries such as JOINS, CASE WHEN, HAVING, Subqueries, etc.
 
-Insights 💡📈
+Insights: 💡📈
 
 The majority of patients stay in the hospital for 1 to 4 days, with the highest number of patients staying for 3 days.
 A positive correlation is observed between the number of lab procedures a patient undergoes and their length of stay in the hospital.
