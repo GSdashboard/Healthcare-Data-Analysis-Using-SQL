@@ -12,7 +12,7 @@ Tools Used: 🛠️
 
 SQL Server was employed for data analysis, utilizing SQL queries such as JOINS, CASE WHEN, HAVING, Subqueries, etc.
 
-Key Insights: 💡📈
+Key Insights: 💡
 
 Patient Stay Duration:
 
@@ -38,7 +38,7 @@ Top Patients by Medication and Lab Procedures:
 
 A curated list of the top 50 patients with the highest number of medication and lab procedures provides a focused view of individuals with complex healthcare needs.
 
-Conclusion:
+Conclusion: 📈
 
 Through systematic analysis using SQL, this project endeavors to contribute meaningful insights to the field of healthcare, aiding in the refinement of strategies to enhance patient care and mitigate hospital readmission rates for individuals with diabetes.
 
